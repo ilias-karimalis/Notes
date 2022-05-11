@@ -1,0 +1,6 @@
+[book]
+authors = ["Ilias Karimalis"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Systopia Notes"
